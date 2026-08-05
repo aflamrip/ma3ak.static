@@ -1,0 +1,120 @@
+[
+  {
+    "label": "🎬 الصفحة الرئيسية لموقع معاك سينما",
+    "categoryId": "main",
+    "url": "https://a.ma3ak.top/"
+  },
+  {
+    "label": "🍿 مكتبة الأفلام الكاملة",
+    "categoryId": "main",
+    "url": "https://a.ma3ak.top/movie"
+  },
+  {
+    "label": "📺 مكتبة المسلسلات الكاملة",
+    "categoryId": "main",
+    "url": "https://a.ma3ak.top/tv"
+  },
+  {
+    "label": "🔍 المحرك الذكي للبحث عن الأفلام والمسلسلات",
+    "categoryId": "main",
+    "url": "https://a.ma3ak.top/search"
+  },
+  {
+    "label": "📂 تصفح جميع الأقسام والتصنيفات",
+    "categoryId": "main",
+    "url": "https://a.ma3ak.top/categories"
+  },
+
+  {
+    "label": "🔥 أفلام أكشن وحركة مترجمة",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/action"
+  },
+  {
+    "label": "🎭 أفلام دراما واجتماعية",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/drama"
+  },
+  {
+    "label": "😂 أفلام كوميدية ومسلية",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/comedy"
+  },
+  {
+    "label": "👻 أفلام رعب وإثارة",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/horror"
+  },
+  {
+    "label": "🚀 أفلام خيال علمي والفضاء",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/sci-fi"
+  },
+  {
+    "label": "⚡ أفلام إثارة وتشوفيق Thriller",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/thriller"
+  },
+  {
+    "label": "💥 أفلام جريمة وعصابات",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/crime"
+  },
+  {
+    "label": "🏕️ أفلام مغامرات واستكشاف",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/adventure"
+  },
+  {
+    "label": "❤️ أفلام رومانسية وحب",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/romance"
+  },
+  {
+    "label": "👨‍👩‍👧‍👦 أفلام عائلية وللجميع",
+    "categoryId": "movies",
+    "url": "https://a.ma3ak.top/movie/category/family"
+  },
+
+  {
+    "label": "💥 مسلسلات أكشن وتشويق",
+    "categoryId": "tv",
+    "url": "https://a.ma3ak.top/tv/category/action"
+  },
+  {
+    "label": "🎭 مسلسلات درامية متسلسلة",
+    "categoryId": "tv",
+    "url": "https://a.ma3ak.top/tv/category/drama"
+  },
+  {
+    "label": "🤣 مسلسلات كوميدية",
+    "categoryId": "tv",
+    "url": "https://a.ma3ak.top/tv/category/comedy"
+  },
+  {
+    "label": "🧟 مسلسلات رعب ورعب نفسي",
+    "categoryId": "tv",
+    "url": "https://a.ma3ak.top/tv/category/horror"
+  },
+  {
+    "label": "🤖 مسلسلات خيال علمي futuristic",
+    "categoryId": "tv",
+    "url": "https://a.ma3ak.top/tv/category/sci-fi"
+  },
+  {
+    "label": "🔎 مسلسلات غموض وجريمة",
+    "categoryId": "tv",
+    "url": "https://a.ma3ak.top/tv/category/crime"
+  },
+
+  {
+    "label": "🎌 أفلام أنمي مترجمة بجودة عالية",
+    "categoryId": "anime",
+    "url": "https://a.ma3ak.top/movie/category/anime"
+  },
+  {
+    "label": "⛩️ مسلسلات أنمي ياباني واحترافي",
+    "categoryId": "anime",
+    "url": "https://a.ma3ak.top/tv/category/anime"
+  }
+]
